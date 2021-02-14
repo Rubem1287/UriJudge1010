@@ -1,0 +1,13 @@
+C:\Users\rubem\source\repos\UriJudge1010\UriJudge1010\bin\Debug\netcoreapp3.1\UriJudge1010.exe
+C:\Users\rubem\source\repos\UriJudge1010\UriJudge1010\bin\Debug\netcoreapp3.1\UriJudge1010.deps.json
+C:\Users\rubem\source\repos\UriJudge1010\UriJudge1010\bin\Debug\netcoreapp3.1\UriJudge1010.runtimeconfig.json
+C:\Users\rubem\source\repos\UriJudge1010\UriJudge1010\bin\Debug\netcoreapp3.1\UriJudge1010.runtimeconfig.dev.json
+C:\Users\rubem\source\repos\UriJudge1010\UriJudge1010\bin\Debug\netcoreapp3.1\UriJudge1010.dll
+C:\Users\rubem\source\repos\UriJudge1010\UriJudge1010\bin\Debug\netcoreapp3.1\UriJudge1010.pdb
+C:\Users\rubem\source\repos\UriJudge1010\UriJudge1010\obj\Debug\netcoreapp3.1\UriJudge1010.csprojAssemblyReference.cache
+C:\Users\rubem\source\repos\UriJudge1010\UriJudge1010\obj\Debug\netcoreapp3.1\UriJudge1010.AssemblyInfoInputs.cache
+C:\Users\rubem\source\repos\UriJudge1010\UriJudge1010\obj\Debug\netcoreapp3.1\UriJudge1010.AssemblyInfo.cs
+C:\Users\rubem\source\repos\UriJudge1010\UriJudge1010\obj\Debug\netcoreapp3.1\UriJudge1010.csproj.CoreCompileInputs.cache
+C:\Users\rubem\source\repos\UriJudge1010\UriJudge1010\obj\Debug\netcoreapp3.1\UriJudge1010.dll
+C:\Users\rubem\source\repos\UriJudge1010\UriJudge1010\obj\Debug\netcoreapp3.1\UriJudge1010.pdb
+C:\Users\rubem\source\repos\UriJudge1010\UriJudge1010\obj\Debug\netcoreapp3.1\UriJudge1010.genruntimeconfig.cache
